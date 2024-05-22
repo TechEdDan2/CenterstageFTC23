@@ -594,7 +594,7 @@ public class RoboSetup {
 
     /**
      * This method will return the motor encoder rotations
-     * FRONT RIGHT WHEEL
+     * FRONT Left WHEEL
      *
      * @return - the number of rotations
      */
@@ -606,7 +606,7 @@ public class RoboSetup {
     /**
      * This method will return the motor encoder rotations
      *
-     * FRONT RIGHT WHEEL
+     * Back Left WHEEL
      *
      * @return - the number of rotations
      */
@@ -618,7 +618,7 @@ public class RoboSetup {
     /**
      * This method will return the motor encoder rotations
      *
-     * FRONT RIGHT WHEEL
+     * arm
      *
      * @return - the number of rotations
      */
